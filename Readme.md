@@ -6,4 +6,5 @@ This repository contains code solution of problems from **30 Days of JavaScript 
 
 1) [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) 
 2) [Counter](https://leetcode.com/problems/counter) 
-3) To be continued...
+3) [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be) 
+4) To be continued...
