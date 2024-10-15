@@ -10,3 +10,9 @@ var map = function(arr, fn) {
     }
     return _arr;
 };
+
+
+let arr = [1,2,3]
+let fn = function plusone(n) { return n + 1; }
+console.log("Input was", arr, fn)
+console.log("Output is", map(arr, fn));
