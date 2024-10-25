@@ -10,5 +10,7 @@ This repository contains code solution of problems from **30 Days of JavaScript 
 4) [Counter II](https://leetcode.com/problems/counter-ii/) 
 5) [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) 
 6) [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array)
-7) [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call)
-8) To be continued...
+7) [Function Composition](https://leetcode.com/problems/function-composition)
+8) [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)
+9) [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call)
+10) To be continued...
