@@ -15,4 +15,5 @@ This repository contains code solution of problems from **30 Days of JavaScript 
 9) [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call)
 10) [Memoize](https://leetcode.com/problems/memoize)
 11) [Add Two Promises](https://leetcode.com/problems/add-two-promises)
-12) To be continued...
+12) [Sleep](https://leetcode.com/problems/sleep)
+13) To be continued...
