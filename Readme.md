@@ -16,6 +16,7 @@ This repository contains code solution of problems from **30 Days of JavaScript 
 10) [Memoize](https://leetcode.com/problems/memoize)
 11) [Add Two Promises](https://leetcode.com/problems/add-two-promises)
 12) [Sleep](https://leetcode.com/problems/sleep)
-13) [Promise Time Limit](https://leetcode.com/problems/promise-time-limit)
+14) [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation)
 14) [Interval Cancellation](https://leetcode.com/problems/interval-cancellation)
-15) To be continued...
+15) [Promise Time Limit](https://leetcode.com/problems/promise-time-limit)
+16) To be continued...
