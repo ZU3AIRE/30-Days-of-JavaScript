@@ -21,4 +21,5 @@ This repository contains code solution of problems from **30 Days of JavaScript 
 15) [Promise Time Limit](https://leetcode.com/problems/promise-time-limit)
 16) [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit)
 17) [Debounce](https://leetcode.com/problems/debounce)
-18) To be continued...
+18) [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel)
+19) To be continued...
