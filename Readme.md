@@ -24,4 +24,5 @@ This repository contains code solution of problems from **30 Days of JavaScript 
 18) [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel)
 19) [Is Object Empty](https://leetcode.com/problems/is-object-empty)
 20) [Chunk Array](https://leetcode.com/problems/chunk-array)
-21) To be continued...
+21) [Array Prototype Last](https://leetcode.com/problems/array-prototype-last)
+22) To be continued...
