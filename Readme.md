@@ -25,4 +25,5 @@ This repository contains code solution of problems from **30 Days of JavaScript 
 19) [Is Object Empty](https://leetcode.com/problems/is-object-empty)
 20) [Chunk Array](https://leetcode.com/problems/chunk-array)
 21) [Array Prototype Last](https://leetcode.com/problems/array-prototype-last)
-22) To be continued...
+22) [Group By](https://leetcode.com/problems/group-by)
+23) To be continued...
